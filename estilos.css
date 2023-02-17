@@ -1,0 +1,21 @@
+body {
+    background-color: blueviolet;
+}
+
+#segundo{
+    background-color:chocolate;
+    color:darkgreen;
+    border: 2px solid black;
+    border-radius: 50px;
+    font-size: 50px;
+}
+
+
+.diferente{
+    background-color:darkred;
+    color:aquamarine;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 50px;
+}
